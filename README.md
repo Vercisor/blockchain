@@ -15,3 +15,11 @@ Make sure to activate the virtual environment.
 ```
 python3 -m pytest backend/tests
 ```
+
+**Run the application adn API**
+
+Make sure to activate the virtual environment.
+
+```
+python3 -m pytest backend.app
+```
